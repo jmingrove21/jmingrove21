@@ -13,9 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmingrove21&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px">
 </a>
 
-### Solved.ac Tier
 <p align="left">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myhomeseoulstation)](https://solved.ac/myhomeseoulstation">
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=myhomeseoulstation">
 </p>
 
 <!--
