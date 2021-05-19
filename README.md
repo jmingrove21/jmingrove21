@@ -2,6 +2,9 @@
 
 - 📫 Contact: jmingrove21@gmail.com
 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmingrove21)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
 
 ### My Github Stats
