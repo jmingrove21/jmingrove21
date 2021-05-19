@@ -7,7 +7,7 @@
 ### My Github Stats
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmingrove21&show_icons=true" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmingrove21&include_all_commits=true&show_icons=true" height="180px">
 </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmingrove21&layout=compact" height="180px">
