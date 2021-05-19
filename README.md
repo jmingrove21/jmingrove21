@@ -2,9 +2,6 @@
 
 - 📫 Contact: jmingrove21@gmail.com
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmingrove21)](https://github.com/anuraghazra/github-readme-stats)
-
 <hr>
 
 ### My Github Stats
@@ -15,9 +12,6 @@
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmingrove21&layout=compact" height="180px">
 </a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jmingrove21">
-<a>
   
 <p align="left">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=myhomeseoulstation">
