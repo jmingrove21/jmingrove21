@@ -12,8 +12,10 @@
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmingrove21&exclude_repo=Jagi,assignment&layout=compact" height="180px">
 </a>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmingrove21&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jmingrove21&layout=compact&langs_count=8)">
+<a>
+  
 <p align="left">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=myhomeseoulstation">
 </p>
