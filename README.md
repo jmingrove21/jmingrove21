@@ -10,10 +10,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jmingrove21&show_icons=true" height="180px">
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmingrove21&exclude_repo=Jagi,assignment&layout=compact" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmingrove21&langs_count=8&layout=compact" height="180px">
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jmingrove21&layout=compact&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jmingrove21&layout=compact">
 <a>
   
 <p align="left">
