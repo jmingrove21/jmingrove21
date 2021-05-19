@@ -14,8 +14,8 @@
 </a>
 
 ### Solved.ac Tier
-<p align="center">
-  <img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=myhomeseoulstation&cache=c">
+<p align="left">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=myhomeseoulstation)](https://solved.ac/myhomeseoulstation">
 </p>
 
 <!--
